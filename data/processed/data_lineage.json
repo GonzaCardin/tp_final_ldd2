@@ -1,0 +1,18 @@
+{
+    "fase": "preprocesamiento",
+    "script_notebook": "notebooks/preprocesamiento.ipynb",
+    "input": "../data/processed/dataset_unificado_diario.csv",
+    "output": "../data/processed\\dataset_final.csv",
+    "pasos_clave": [
+        "Carga de datos diarios",
+        "Limpieza de outliers (>40k)",
+        "Creaci\u00f3n de target con shift(-1)",
+        "Eliminaci\u00f3n de columnas (NaN > 50%, Data Leakage)",
+        "Imputaci\u00f3n con Cero (0)",
+        "Feature Engineering (Lags, Rolling, Time)",
+        "Selecci\u00f3n de Features (Top 15 RF y RFE)",
+        "Split Temporal 70/30",
+        "StandardScaler (guardado en scaler.joblib)"
+    ],
+    "timestamp": "2025-11-03T16:41:29.604983"
+}
