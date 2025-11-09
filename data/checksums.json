@@ -1,7 +1,9 @@
-{
-    "df_daily_unified": {
-        "file": "../data\\df_daily_unified.csv",
-        "hash_md5": "4422333d485a8dfd5ad6e89bd242f8e4",
-        "timestamp": "2025-11-03T13:38:44.781148"
+[
+    {
+        "timestamp": "2025-11-09T17:37:28.827427",
+        "file": "df_raw_unified",
+        "rows": 1185,
+        "columns": 452,
+        "md5": "21c87bc1dc65bed5c3527e751117b9a0"
     }
-}
+]
