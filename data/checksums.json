@@ -5,5 +5,15 @@
         "rows": 1185,
         "columns": 452,
         "md5": "21c87bc1dc65bed5c3527e751117b9a0"
+{
+    "df_daily_unified": {
+        "file": "../data\\df_daily_unified.csv",
+        "hash_md5": "4422333d485a8dfd5ad6e89bd242f8e4",
+        "timestamp": "2025-11-03T13:38:44.781148"
+    },
+    "dataset_procesado_final": {
+        "file": "../data/processed\\dataset_final.csv",
+        "hash_md5": "2fe499793d5f2431ce8b4055ae65fc38",
+        "timestamp": "2025-11-03T16:41:29.604983"
     }
 ]
