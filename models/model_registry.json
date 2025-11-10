@@ -1,0 +1,10 @@
+{
+  "version": "v1.0.0",
+  "model": "Lasso",
+  "path": "../models/modelo_v1.0.0.pkl",
+  "mae_val": 2631.13,
+  "rmse_val": 3459.15,
+  "r2_val": 0.61,
+  "alpha": 1.0,
+  "train_date": "2025-11-09T21:28:56.528351"
+}
