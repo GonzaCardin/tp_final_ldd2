@@ -1,5 +1,5 @@
 {
-  "fecha": "2025-11-09T19:51:55.772039",
+  "fecha": "2025-11-09T20:32:21.483837",
   "script": "preprocesamiento.ipynb",
   "rama": "feature/preprocessing",
   "outliers": ">40,000 kW eliminados",
